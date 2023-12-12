@@ -1,0 +1,12 @@
+const CONFIG = {
+  BASE_URL: 'https://restaurant-api.dicoding.dev/',
+  BASE_THUMBNAIL_URL: 'https://restaurant-api.dicoding.dev/images/small/',
+  BASE_IMAGE_URL: 'https://restaurant-api.dicoding.dev/images/large/',
+  BASE_URL_REVIEW: 'https://restaurant-api.dicoding.dev/review',
+  DEFAULT_LANGUAGE: 'en-us',
+  DATABASE_NAME: 'dionResto-database',
+  DATABASE_VERSION: 1,
+  OBJECT_STORE_NAME: 'resto',
+};
+
+export default CONFIG;
